@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "name": "Gustavo Lipshutz",
+        "username": "mrpizza69",
+        "imageName": "friends.gustavo"
+    },
+    {
+        "id": 2,
+        "name": "Zain Vetrovs",
+        "username": "carolfries",
+        "imageName": "friends.zain"
+    },
+    {
+        "id": 3,
+        "name": "Madelyn George",
+        "username": "pouchnoel",
+        "imageName": "friends.madelyn"
+    },
+    {
+        "id": 4,
+        "name": "Chance Vetrovs",
+        "username": "mrpizza69",
+        "imageName": "friends.chance"
+    },
+    {
+        "id": 5,
+        "name": "Roger Donin",
+        "username": "pouchnoel",
+        "imageName": "friends.roger"
+    },
+    {
+        "id": 6,
+        "name": "Paityn Calzoni",
+        "username": "odenbells",
+        "imageName": "friends.paityn"
+    },
+    {
+        "id": 7,
+        "name": "Davis Vetrovs",
+        "username": "carolfries",
+        "imageName": "friends.davis"
+    },
+    {
+        "id": 8,
+        "name": "Thea Cole",
+        "username": "mrpizza69",
+        "imageName": "friends.paityn"
+    },
+    {
+        "id": 9,
+        "name": "Randy Gibbons",
+        "username": "pouchnoel",
+        "imageName": "friends.gustavo"
+    },
+    {
+        "id": 10,
+        "name": "Zane Hartley",
+        "username": "mrpizza69",
+        "imageName": "friends.zain"
+    },
+    {
+        "id": 11,
+        "name": "Jon Leblanc",
+        "username": "carolfries",
+        "imageName": "friends.madelyn"
+    },
+    {
+        "id": 12,
+        "name": "Arjan Foley",
+        "username": "odenbells",
+        "imageName": "friends.chance"
+    },
+    {
+        "id": 13,
+        "name": "Zane Hartley",
+        "username": "mrpizza69",
+        "imageName": "friends.roger"
+    }
+]
